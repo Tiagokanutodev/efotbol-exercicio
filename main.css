@@ -1,0 +1,46 @@
+body
+{
+    background-color: rgb(0, 0, 0);
+}
+
+h2
+{
+    color: yellow;
+    font-size: 20px;
+}
+
+h1
+{
+    color: yellow;
+    text-align: center;
+    padding: 20px;
+}
+
+h4, h3 
+{
+    color: #fff;
+    padding: 10px;
+}
+
+.container
+{
+    padding: 50px;
+    width: 70%;
+}
+
+.container-3 img
+{
+    width: 60%;
+}
+
+.container-4 img
+{
+    width: 70%;
+        
+}
+
+header       /*cabecalho*/
+{
+    background-color: #192a56;;    /*fundo da palavra EBAC MOTORS*/     
+}
+
